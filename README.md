@@ -1,2 +1,2 @@
-# SpringbootProject
-practice project
+# SpringbootPractice
+practice practice
